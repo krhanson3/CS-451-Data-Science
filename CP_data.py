@@ -6,7 +6,7 @@
 
 #Q1
 import pandas as pd
-df = pd.read_csv("student_data - Sheet1.csv")
+df = pd.read_csv("data-sheets\student_data - Sheet1.csv")
 ages = df["age"]
 mean_age = round(ages.mean())
 #fill missing values in the age column 
@@ -14,19 +14,19 @@ df['age'].fillna(mean_age, inplace=True)
 
 #Q2
 import pandas as pd
-df0 = pd.read_csv("student_data - Sheet1.csv")
+df0 = pd.read_csv("data-sheets\student_data - Sheet1.csv")
 df0_cleaned = df0.drop_duplicates(subset=["name", "age", "grade", "address"])
 print(df0_cleaned)
 
 #Q3
 import pandas as pd
-df1 = pd.read_csv("sales - Sheet1.csv")
+df1 = pd.read_csv("data-sheets\sales - Sheet1.csv")
 df1['price'] = df1['price'].str.replace(' USD', '', regex=False).astype(float)
 print(df1)
 
 #Q4
 import pandas as pd
-df2= pd.read_csv('employee_data - Sheet1.csv')
+df2= pd.read_csv('data-sheets\employee_data - Sheet1.csv')
 df2 = df2.rename(columns={
     "name": "employee_name",
     "age": "employee_age",
@@ -37,14 +37,14 @@ print(df2.columns)
 
 #Q5
 import pandas as pd
-df3 = pd.read_csv('employee_data - Sheet1.csv')
+df3 = pd.read_csv('data-sheets\employee_data - Sheet1.csv')
 df3['status'] = df3['status'].map({'Active': 1, 'Inactive': 0})
 
 print(df3)
 
 #Q6
 import pandas as pd
-df4 = pd.read_csv("student_data - Sheet1.csv")
+df4 = pd.read_csv("data-sheets\student_data - Sheet1.csv")
 df4 = df4.drop(columns=['address'])
 print(df4)
 
@@ -70,7 +70,7 @@ plt.show()
 
 #Q8
 import pandas as pd
-df5 = pd.read_csv('employee_data - Sheet1.csv')
+df5 = pd.read_csv('data-sheets\employee_data - Sheet1.csv')
 salary_min = df5['salary'].min()
 salary_max = df5['salary'].max()
 
@@ -79,7 +79,7 @@ print(df5)
 
 #Q9
 import pandas as pd
-df6 = pd.read_csv('employee_data - Sheet1.csv')
+df6 = pd.read_csv('data-sheets\employee_data - Sheet1.csv')
 mean_salary = df6['salary'].mean()
 std_salary = df6['salary'].std()
 
