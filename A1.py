@@ -215,22 +215,22 @@ dataset = {
     'Ratings' :
     [   '3.4',
         '4.05',
-        '3.25',
+        '2.4',
         '3.75',
         '3.95',
-        '3.15',
+        '1.15',
         '4.05',
-        '3.15',
+        '2.15',
         '3.85',
-        '4.0'
+        '4.5'
     ]
 }
 
 df = pd.DataFrame(dataset)
-#print(df.columns.tolist())
-#print(df)
+print(df.columns.tolist())
+print(df)
 
-#Q10
+#Q10 Editing Data
 print('#Q10')
 import math
 df2 = pd.DataFrame(dataset)
@@ -238,12 +238,104 @@ df2["Movies"]= df2['Movies'].str.replace(" ", "")
 df2["Likes"]= df2['Likes'].str.replace(" ", "")
 df2["Dislikes"] = df2['Dislikes'].str.lower()
 df2['Ratings'] = df2['Ratings'].astype(float).apply(math.floor).astype(str)
-
 print(df2)
 
-#Q11
+#Q11 Histogram 
 print('#Q11')
 import matplotlib.pyplot as plt
 df['Ratings'] = df['Ratings'].astype(float)
+mean_rating = df['Ratings'].mean()
+std_rating = df['Ratings'].std()
 
-plt.hist(df['Ratings'], )
+print(mean_rating)
+print(std_rating)
+
+plt.hist(df['Ratings'], edgecolor='black')
+plt.xlabel('Rating')
+plt.ylabel('Frequency')
+plt.show()
+
+#Q12
+
+plt.figure(figsize=(12, 8))
+plt.subplot(2, 1, 1)
+plt.scatter(df['Movies'], df['Ratings'])
+plt.xticks(rotation=45, ha='right')
+plt.subplots_adjust(bottom=0.5)
+
+plt.subplot(2, 1, 2)
+plt.bar(df['Movies'], df['Ratings'])
+plt.xticks(rotation=45, ha='right')
+
+plt.tight_layout()
+plt.show()
+
+#Q13
+df['ZRatings'] = (df['Ratings'] - mean_rating) / std_rating #normalization formula !!!!! yay !!!!!!
+plt.hist(df['ZRatings'], edgecolor='black')
+plt.xlabel('Z-score')
+plt.ylabel('Frequency')
+plt.show()
+
+#Q14
+plt.figure(figsize=(12, 6))
+
+plt.subplot(1, 2, 1)
+plt.hist(df['Ratings'], edgecolor='black')
+plt.xlabel('Rating')
+plt.ylabel('Frequency')
+
+plt.subplot(1, 2, 2)
+plt.hist(df['ZRatings'], edgecolor='black')
+plt.xlabel('Z-score')
+plt.ylabel('Frequency')
+
+plt.tight_layout()
+plt.show()
+
+#Q15
+df['RandomRatings'] = np.random.randint(1, 101, 10)
+mean_randint = df['RandomRatings'].mean()
+std_randint = df['RandomRatings'].std()
+
+print(f'mean={mean_randint}')
+print(f'std={std_randint}')
+
+plt.hist(df['RandomRatings'], edgecolor='black')
+plt.xlabel('Random Numbers')
+plt.ylabel('Frequency')
+plt.show()
+
+plt.figure(figsize=(12, 8))
+plt.subplot(2, 1, 1)
+plt.scatter(df['Movies'], df['RandomRatings'])
+plt.xticks(rotation=45, ha='right')
+plt.subplots_adjust(bottom=0.5)
+
+plt.subplot(2, 1, 2)
+plt.bar(df['Movies'], df['RandomRatings'])
+plt.xticks(rotation=45, ha='right')
+
+plt.tight_layout()
+plt.show()
+
+df['ZRandomRatings'] = (df['RandomRatings'] - mean_randint) / std_randint #normalization formula !!!!! yay !!!!!!
+plt.hist(df['ZRandomRatings'], edgecolor='black')
+plt.xlabel('Z-score of RandomRatings')
+plt.ylabel('Frequency')
+plt.show()
+
+plt.figure(figsize=(12, 6))
+
+plt.subplot(1, 2, 1)
+plt.hist(df['RandomRatings'], edgecolor='black')
+plt.xlabel('RandomRatings')
+plt.ylabel('Frequency')
+
+plt.subplot(1, 2, 2)
+plt.hist(df['ZRandomRatings'], edgecolor='black')
+plt.xlabel('ZRandomRatings')
+plt.ylabel('Frequency')
+
+plt.tight_layout()
+plt.show()
