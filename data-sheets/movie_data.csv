@@ -1,0 +1,301 @@
+,title,critic_rating,user_rating,month,day,year
+0,The Long Walk,88,85,10,21,2025
+1,The Roses,65,79,10,21,2025
+2,Dead of Winter,77,79,10,21,2025
+3,Good Boy,89,82,10,24,2025
+4,A HOUSE OF DYNAMITE,81,75,10,24,2025
+5,The Woman in Cabin 10,28,31,10,10,2025
+6,The Perfect Neighbor,100,77,10,17,2025
+7,Weapons,93,85,9,9,2025
+8,Evelyn,100,77,9,10,2019
+9,The Lost Bus,87,94,10,3,2025
+10,The Substance,89,76,10,31,2024
+11,Bring Her Back,89,79,7,1,2025
+12,HIM,31,57,10,7,2025
+13,The Conjuring: Last Rites,59,78,10,7,2025
+14,I Know What You Did Last Summer,36,68,8,26,2025
+15,Tron: Legacy,51,64,1,1,2014
+16,Vicious,42,34,10,10,2025
+17,Sinners,97,96,6,3,2025
+18,The Strangers: Chapter 2,14,55,10,14,2025
+19,Caught Stealing,84,84,9,30,2025
+20,Steve,78,66,10,3,2025
+21,Superman,83,90,8,15,2025
+22,The Twits,53,62,10,17,2025
+23,Play Dirty,44,43,10,1,2025
+24,28 Years Later,88,63,7,29,2025
+25,A Big Bold Beautiful Journey,36,59,10,14,2025
+26,Together,91,76,8,26,2025
+27,KPop Demon Hunters,95,99,6,20,2025
+28,The Naked Gun,88,73,9,2,2025
+29,Lurker,95,84,10,10,2025
+30,The Fantastic Four: First Steps,86,91,9,23,2025
+31,V/H/S Halloween,95,54,10,3,2025
+32,Oddity,96,77,8,20,2024
+33,Black Bag,96,70,4,1,2025
+34,F1 The Movie,82,97,8,22,2025
+35,Trick 'r Treat,81,98,7,24,2014
+36,John Candy: I Like Me,89,98,10,10,2025
+37,Highest 2 Lowest,84,84,9,5,2025
+38,Materialists,78,66,7,22,2025
+39,Gabby's Dollhouse: The Movie,84,94,10,14,2025
+40,Friendship,87,73,6,17,2025
+41,Jurassic World Rebirth,50,71,8,5,2025
+42,Companion,93,89,2,18,2025
+43,The Baltimorons,92,82,10,7,2025
+44,The Senior,79,93,10,14,2025
+45,Longlegs,86,61,8,23,2024
+46,Nobody 2,77,88,9,2,2025
+47,The Ugly Stepsister,96,87,5,9,2025
+48,How to Train Your Dragon,77,97,7,15,2025
+49,Honey Don't!,45,40,9,9,2025
+50,All of You,71,70,9,26,2025
+51,Under the Shadow,99,71,1,17,2017
+52,Heretic,90,76,12,10,2024
+53,Tron,60,69,12,13,2015
+54,Freakier Friday,74,91,10,7,2025
+55,The Toxic Avenger,86,83,9,30,2025
+56,Host,98,71,7,30,2020
+57,His House,100,73,10,30,2020
+58,Mission: Impossible - The Final Reckoning,80,88,8,19,2025
+59,The Maze Runner,66,68,12,2,2014
+60,Talk to Me,94,83,9,12,2023
+61,Thunderbolts*,88,93,7,1,2025
+62,Eddington,69,65,8,12,2025
+63,Warfare,92,93,5,6,2025
+64,The Life of Chuck,80,88,7,29,2025
+65,Some Other Woman,43,36,1,3,2025
+66,The Thursday Murder Club,77,53,8,28,2025
+67,Don't Say a Word,23,49,3,1,2013
+68,The Monkey,77,55,4,4,2025
+69,Presence,88,52,2,25,2025
+70,40 Acres,89,94,7,22,2025
+71,Strange Harvest,91,65,9,9,2025
+72,Primitive War,56,85,10,3,2025
+73,Maintenance Required,33,38,10,8,2025
+74,Ballerina,75,92,7,1,2025
+75,Tim Burton's The Nightmare Before Christmas,95,92,1,1,2014
+76,Downton Abbey: The Grand Finale,91,96,9,30,2025
+77,The Menu,88,76,1,3,2023
+78,The Ballad of Wallis Island,96,93,5,6,2025
+79,Five Nights at Freddy's,33,86,10,27,2023
+80,Guns & Moses,73,94,10,14,2025
+81,Past Lives,95,93,8,22,2023
+82,Parasite,99,90,10,11,2019
+83,Relay,79,89,9,16,2025
+84,Hereditary,90,72,8,21,2018
+85,Hocus Pocus 2,65,47,9,30,2022
+86,Nosferatu,84,73,1,21,2025
+87,Karate Kid: Legends,58,90,7,8,2025
+88,Sinister,64,62,11,21,2015
+89,Final Destination Bloodlines,92,86,6,17,2025
+90,War of the Worlds,4,20,7,30,2025
+91,Vacation,27,45,5,23,2016
+92,Until Dawn,51,67,5,23,2025
+93,Halloween,97,89,3,18,2017
+94,Barbarian,92,70,10,25,2022
+95,Sketch,95,83,8,26,2025
+96,M3GAN 2.0,58,81,7,15,2025
+97,Scream,78,80,4,21,2016
+98,Drop,83,79,4,29,2025
+99,Interstellar,73,87,5,24,2016
+100,The Surfer,84,46,6,6,2025
+101,Elio,83,90,8,19,2025
+102,Splitsville,85,84,9,23,2025
+103,The A-Team,48,66,11,25,2015
+104,MadS,94,67,10,18,2024
+105,Mickey 17,77,73,4,8,2025
+106,Psycho,97,95,2,12,2014
+107,Bad Shabbos,86,82,9,16,2025
+108,Something's Gotta Give,72,69,4,16,2012
+109,The Amateur,62,87,6,10,2025
+110,The Man in My Basement,40,28,9,25,2025
+111,The Order,93,89,12,24,2024
+112,Get Out,98,86,5,9,2017
+113,A Serbian Film,48,46,1,18,2021
+114,Godzilla Minus One,99,98,6,1,2024
+115,The Phoenician Scheme,77,70,7,8,2025
+116,It,85,84,12,19,2017
+117,The Babadook,98,72,11,5,2015
+118,Babygirl,76,48,1,28,2025
+119,The Gorge,62,75,2,14,2025
+120,Traumatika,68,44,10,7,2025
+121,Premonition,8,50,4,1,2017
+122,Deadstream,92,75,10,6,2022
+123,Fifty Shades of Grey,25,41,1,5,2016
+124,The Bad Guys 2,87,94,8,19,2025
+125,The Wailing,99,82,9,6,2016
+126,Hit Man,95,89,6,7,2024
+127,Maze Runner: The Scorch Trials,47,54,12,3,2015
+128,Dangerous Animals,87,74,7,22,2025
+129,The Witch,91,61,5,17,2016
+130,Practical Magic,27,73,9,1,2009
+131,28 Days Later,87,85,5,10,2014
+132,The Godfather,97,98,8,1,2013
+133,Anora,93,84,12,17,2024
+134,It's What's Inside,79,69,10,4,2024
+135,Marvel's the Avengers,91,91,6,22,2014
+136,The Damned,89,47,1,21,2025
+137,Annie Hall,97,92,9,3,2015
+138,Small Things Like These,93,81,12,17,2024
+139,The Cabin in the Woods,92,74,5,6,2014
+140,Maze Runner: The Death Cure,43,58,4,6,2018
+141,Wicked,88,95,12,31,2024
+142,X,94,76,4,14,2022
+143,Coraline,91,74,2,12,2014
+144,Smile 2,86,81,11,19,2024
+145,A Nightmare on Elm Street,94,84,7,24,2014
+146,The Conjuring,86,83,10,8,2013
+147,It Follows,95,66,11,30,2016
+148,The Texas Chain Saw Massacre,84,82,12,30,2014
+149,Terrifier 3,78,85,11,26,2024
+150,The Threesome,78,71,10,3,2025
+151,Late Night with the Devil,97,82,4,19,2024
+152,Let the Right One In,98,90,1,14,2017
+153,Captain America: Brave New World,46,76,4,15,2025
+154,A Minecraft Movie,47,85,5,13,2025
+155,"Sorry, Baby",97,84,8,5,2025
+156,Cloud,93,62,10,7,2025
+157,Speak No Evil,83,83,10,1,2024
+158,XX,69,20,2,17,2017
+159,Novocaine,80,84,4,8,2025
+160,After,18,64,6,25,2019
+161,A Little Prayer,93,92,10,7,2025
+162,Confessions of a Shopaholic,26,49,1,1,2014
+163,Hocus Pocus,41,72,1,1,2014
+164,Death of a Unicorn,53,76,4,29,2025
+165,The Descent,87,76,9,8,2016
+166,The Strangers,50,48,6,15,2012
+167,Tangerine,96,76,11,10,2016
+168,The Strangers: Chapter 1,21,45,6,7,2024
+169,When Evil Lurks,96,78,10,27,2023
+170,Beetlejuice Beetlejuice,75,78,10,8,2024
+171,Clown in a Cornfield,74,58,6,10,2025
+172,Original Sin,12,61,9,16,2008
+173,The Holdovers,97,92,11,28,2023
+174,Smile,80,77,11,15,2022
+175,It: Chapter Two,62,78,9,7,2019
+176,Wolf Man,48,55,2,4,2025
+177,The Invisible Man,92,88,3,20,2020
+178,Killers of the Flower Moon,93,84,12,5,2023
+179,Fight or Flight,77,74,6,17,2025
+180,Bullet Train,52,76,12,3,2022
+181,A Working Man,47,87,4,15,2025
+182,Knives Out,97,92,6,12,2020
+183,Predator: Killer of Killers,95,88,6,6,2025
+184,Midsommar,83,63,9,24,2019
+185,Anyone But You,53,87,2,20,2024
+186,Halloween,79,72,12,28,2018
+187,Drag Me to Hell,92,62,2,12,2014
+188,Kingdom of Heaven,39,72,9,18,2012
+189,The Gentlemen,76,84,3,24,2020
+190,No Time to Die,83,88,11,9,2021
+191,Spirited Away,96,96,12,19,2019
+192,Us,93,61,6,4,2019
+193,Law Abiding Citizen,26,75,2,5,2016
+194,Avengers: Endgame,94,90,7,30,2019
+195,Night of the Reaper,79,62,9,19,2025
+196,The Devil's Bath,91,62,6,28,2024
+197,The Marvels,63,79,1,16,2024
+198,The Home,28,58,8,26,2025
+199,The Wild Robot,97,98,10,15,2024
+200,The Ritual,74,63,2,9,2018
+201,Adulthood,71,81,9,23,2025
+202,Friday the 13th,68,60,1,1,2011
+203,The Woman in the Yard,40,46,4,15,2025
+204,Disney's Snow White,38,69,5,13,2025
+205,The Brutalist,93,80,2,18,2025
+206,Havoc,64,35,4,25,2025
+207,Terrifier,63,52,3,27,2018
+208,Shutter Island,69,77,8,1,2013
+209,The Thing,85,92,6,15,2012
+210,Twilight,48,72,11,21,2015
+211,The First Omen,83,69,5,28,2024
+212,L.A. Confidential,99,94,12,12,2015
+213,Strange Darling,96,85,10,1,2024
+214,Freaky Tales,75,89,4,25,2025
+215,The Power of the Dog,94,76,12,1,2021
+216,Deep Cover,90,79,6,12,2025
+217,Doctor Sleep,78,89,11,7,2019
+218,The Stranger,92,74,10,19,2022
+219,There Will Be Blood,91,86,2,24,2012
+220,Cuckoo,78,58,9,17,2024
+221,Tim Burton's Corpse Bride,84,77,7,21,2008
+222,Werewolves,49,42,12,24,2024
+223,Apocalypse in the Tropics,90,80,7,14,2025
+224,Heart Eyes,77,76,3,4,2025
+225,The Empty Man,73,61,1,10,2021
+226,The Batman,85,87,4,19,2022
+227,Flow,97,98,1,7,2025
+228,No Country for Old Men,93,86,4,21,2016
+229,The Silence of the Lambs,95,95,8,27,2015
+230,I Saw the TV Glow,85,71,6,14,2024
+231,The Shining,84,93,8,15,2008
+232,A Complete Unknown,82,95,2,25,2025
+233,The Dark Knight,94,94,6,14,2010
+234,Coherence,89,81,11,16,2015
+235,Blink Twice,75,71,9,17,2024
+236,Halloweentown,83,72,1,12,2017
+237,Joker: Folie à Deux,31,31,10,29,2024
+238,I Know What You Did Last Summer,47,41,4,27,2013
+239,Reunion,40,49,6,28,2024
+240,Alien: Romulus,80,85,10,15,2024
+241,Lilo & Stitch,72,92,7,22,2025
+242,Scary Movie,51,43,1,20,2016
+243,Oppenheimer,93,91,11,21,2023
+244,Leave the World Behind,73,36,12,8,2023
+245,Spinal Tap II: The End Continues,66,90,9,30,2025
+246,Top Gun: Maverick,96,99,8,22,2022
+247,Monster,97,90,2,27,2024
+248,A Quiet Place,96,83,6,26,2018
+249,Pearl,93,83,10,25,2022
+250,The First Wives Club,49,68,6,17,2008
+251,Scooby-Doo,32,40,12,26,2011
+252,Ne Zha II,92,98,9,16,2025
+253,Scream VI,77,90,4,25,2023
+254,The Accountant 2,75,92,6,5,2025
+255,The Assessment,84,92,4,8,2025
+256,Avatar: The Way of Water,76,92,3,28,2023
+257,Swiped,44,40,9,19,2025
+258,Because I Said So,3,65,9,15,2015
+259,Creep,91,66,7,14,2015
+260,The Vanishing,96,88,3,25,2017
+261,Spy Game,64,75,5,7,2015
+262,Enemy,73,64,4,22,2014
+263,Kraven the Hunter,15,72,1,14,2025
+264,On Becoming a Guinea Fowl,100,67,4,8,2025
+265,Sovereign,94,77,7,11,2025
+266,Heads of State,68,70,7,2,2025
+267,Evil Dead Rise,85,76,5,9,2023
+268,Dead Poets Society,85,92,8,9,2016
+269,The Gray Man,46,90,7,22,2022
+270,Sleepy Hollow,71,80,8,1,2013
+271,What Happens Later,51,28,11,28,2023
+272,Civil War,81,69,5,24,2024
+273,Nobody,84,94,4,15,2021
+274,Spider-Man: No Way Home,93,97,3,15,2022
+275,Juror #2,93,90,12,3,2024
+276,ParaNorman,89,72,10,19,2015
+277,Inglourious Basterds,89,88,12,10,2015
+278,The Electric State,14,67,3,14,2025
+279,Inception,87,91,6,20,2013
+280,The Conjuring 2,80,82,8,30,2016
+281,Edge of Tomorrow,91,90,11,10,2015
+282,Trap,57,64,8,30,2024
+283,Casper,59,51,9,2,2014
+284,The Lincoln Lawyer,83,82,12,19,2015
+285,Bram Stoker's Dracula,69,79,7,1,2013
+286,Prey,94,74,8,5,2022
+287,Shang-Chi and the Legend of the Ten Rings,92,98,11,12,2021
+288,American Psycho,68,85,1,13,2015
+289,Heat,84,94,11,19,2015
+290,Madame Web,10,53,3,15,2024
+291,Gone Girl,88,87,6,1,2016
+292,The Martian,91,91,12,22,2015
+293,Halloween Ends,40,57,10,14,2022
+294,Meet Joe Black,48,81,3,18,2014
+295,Coco,97,94,2,13,2018
+296,Seven,84,95,7,6,2010
+297,You Hurt My Feelings,94,64,6,22,2023
+298,Blade Runner 2049,88,88,12,26,2017
+299,Gerald's Game,91,70,9,29,2017
